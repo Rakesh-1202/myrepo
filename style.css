@@ -4,12 +4,12 @@ body {
     display: grid;
     place-items: center;
     font-family: Arial, sans-serif;
-    background: #ab960e;
+    background: #062b0d;
     color: #70174b;
 }
 
 .card {
-    background: white;
+    background: rgb(28, 6, 6);
     padding: 2rem 2.5rem;
     border-radius: 16px;
     box-shadow: 0 10px 30px rgba(15, 23, 42, 0.15);
@@ -21,6 +21,7 @@ h1 {
     margin-bottom: 0.75rem;
     font-size: 2rem;
 }
+clear
 
 p {
     margin: 0;
